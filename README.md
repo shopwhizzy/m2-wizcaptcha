@@ -11,9 +11,9 @@
 
 Simple math captcha for customer registration page. Can work together with reCaptcha.
 
-Example here: https://mgt-wizards.com/customer/account/create/
+Send us an email requesting the module https://shopwhizzy.com/help-center/
 
-Module available to download here: https://mgt-wizards.com/simple-math-captcha-for-magento-2
+Free of charge.
 
 ## Installation
 
